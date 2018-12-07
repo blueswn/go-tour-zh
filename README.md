@@ -9,9 +9,9 @@ Go 语言的交互式简介
 
 每节末尾都有几个练习，你可以对自己的所学进行实践。 你可以 在线学习 或 安装到本地。
 
-# [目录](https://github.com/gnefiy/go-tour-zh/blob/master/README.md)
+导航：[Go编程语言中文目录](https://github.com/gnefiy/go-zh/blob/master/README.md)
 
-* 前言
+## 前言
 
 ## 第一部分：基础
 
